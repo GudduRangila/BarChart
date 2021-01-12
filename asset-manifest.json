@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GudduRangila/BarChart.git/static/css/main.bd792cd3.chunk.css",
+    "main.js": "/GudduRangila/BarChart.git/static/js/main.e0719dca.chunk.js",
+    "main.js.map": "/GudduRangila/BarChart.git/static/js/main.e0719dca.chunk.js.map",
+    "runtime-main.js": "/GudduRangila/BarChart.git/static/js/runtime-main.6cb08974.js",
+    "runtime-main.js.map": "/GudduRangila/BarChart.git/static/js/runtime-main.6cb08974.js.map",
+    "static/js/2.8206ba57.chunk.js": "/GudduRangila/BarChart.git/static/js/2.8206ba57.chunk.js",
+    "static/js/2.8206ba57.chunk.js.map": "/GudduRangila/BarChart.git/static/js/2.8206ba57.chunk.js.map",
+    "index.html": "/GudduRangila/BarChart.git/index.html",
+    "static/css/main.bd792cd3.chunk.css.map": "/GudduRangila/BarChart.git/static/css/main.bd792cd3.chunk.css.map",
+    "static/js/2.8206ba57.chunk.js.LICENSE.txt": "/GudduRangila/BarChart.git/static/js/2.8206ba57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cb08974.js",
+    "static/js/2.8206ba57.chunk.js",
+    "static/css/main.bd792cd3.chunk.css",
+    "static/js/main.e0719dca.chunk.js"
+  ]
+}
